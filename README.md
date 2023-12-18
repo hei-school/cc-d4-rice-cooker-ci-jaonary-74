@@ -3,6 +3,15 @@
 ## cc-d4-rice-cooker-ci-jaonary-74
 
 ## Installation and usage
+
 - Clone this repository
 
+        https://github.com/hei-school/cc-d4-rice-cooker-ci-jaonary-74/tree/feature/python
+
+- Go to the project directory
+
+        cd src
     
+- Run with this command
+
+        python rice_cooker.py
